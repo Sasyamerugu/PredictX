@@ -9,20 +9,20 @@ Instead of generating free-form text, the system focuses on:
 - Grounding explanations in real transcript evidence
 
 ---
-## Project Structure
+##  Project Structure
+
+```text
 PredictX/
-│
 ├── src/
-│ └── main.py
-│
+│   └── main.py
 ├── data/
-│ ├── Conversational_Transcript_Dataset.json
-│ ├── queries.csv
-│ └── submission_output.csv
-│
-├── Requirements.txt
+│   ├── Conversational_Transcript_Dataset.json
+│   ├── queries.csv
+│   └── submission_output.csv
+├── requirements.txt
 ├── README.md
 └── technical_report.pdf
+```
 
 ---
 
