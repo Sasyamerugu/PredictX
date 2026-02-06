@@ -38,11 +38,14 @@ PredictX/
 
 ## Installation
 
+```bash
 pip install -r requirements.txt
+```
 
 ## Running the System
+```bash
 python src/main.py
-
+```
 This will:
 
 1.Read queries from data/queries.csv
